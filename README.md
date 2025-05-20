@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CopyrightDevil
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning Software Developer aiming to become a Software Engineer
-- 📫 How to reach me my linkedin profile
+- 📫 [How to reach me my linkedin profile](https://www.linkedin.com/in/trung-cang-hoang-96b788264/)
 - ⚡ Fun fact: i never give up 
 
 <!---
